@@ -51,6 +51,7 @@
     "SESSION": {
       "description": "Pyrogram string Session https://t.me/string_session_generator_658_bot",
       "value": ""
+      "required": false
     }
   },
   "formation": {
